@@ -1,0 +1,8 @@
+***REQUIREMENTS***
+
+PACKAGES:
+1. Faker
+2. vaderSentiment
+
+Dataset:
+_none_
